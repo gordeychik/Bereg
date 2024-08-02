@@ -763,3 +763,7 @@ form {
 .banner__slider-controls {
   display: none;
 }
+
+.footer__catalog li a {
+  color: #544e4d !important;
+}
